@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: RegressionProject
+Version: 0.0.1
+Author: Rk
+Author-email: ranjitkulkarni6@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
