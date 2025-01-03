@@ -1,0 +1,16 @@
+[ 2025-01-04 04:09:24,830 ] 23 root - INFO - Logger is successfully set up!
+[ 2025-01-04 04:09:27,342 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-04 04:09:27,349 ] 97 werkzeug - INFO -  * Debugger PIN: 520-297-573
+[ 2025-01-04 04:09:42,189 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:09:42] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:10:02,542 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 04:10:03,612 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:10:03] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:10:35,513 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:10:35] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:10:38,778 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 04:10:38,791 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:10:38] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:14:37,221 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:14:37] "GET / HTTP/1.1" 200 -
+[ 2025-01-04 04:14:39,459 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:14:39] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:17:07,867 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:17:07] "GET / HTTP/1.1" 200 -
+[ 2025-01-04 04:17:12,212 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:17:12] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:17:26,358 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 04:17:26,379 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 04:17:26] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-04 04:18:56,221 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ranje\\OneDrive\\Desktop\\hosuseprice\\app.py', reloading

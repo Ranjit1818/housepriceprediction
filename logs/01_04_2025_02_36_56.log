@@ -1,0 +1,6 @@
+[ 2025-01-04 02:36:56,552 ] 23 root - INFO - Logger is successfully set up!
+[ 2025-01-04 02:36:57,996 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-04 02:36:58,002 ] 97 werkzeug - INFO -  * Debugger PIN: 520-297-573
+[ 2025-01-04 02:37:58,415 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 02:37:58] "GET / HTTP/1.1" 200 -
+[ 2025-01-04 02:37:58,553 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 02:37:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-01-04 02:38:56,392 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ranje\\OneDrive\\Desktop\\hosuseprice\\app.py', reloading

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Prediction Results</title>
+    <style>
+        /* Set the uploaded image as the background */
+        body {
+            margin: 0;
+            padding: 0;
+            background: url('https://cdn.pixabay.com/photo/2016/02/14/09/45/diamond-1199183_1280.jpg') no-repeat center center fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+        }
+
+        /* Center the content container */
+        .container {
+            max-width: 900px;
+            margin: 80px auto;
+            background-color: rgba(0, 0, 0, 0); /* Add a transparent background for readability */
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+            color: #ffcc00; /* Gold color for the title */
+            text-shadow: 2px 2px 4px #000;
+        }
+
+        .result-card {
+            margin-bottom: 20px;
+        }
+
+        .result-card h2 {
+            text-align: center;
+            color: #ffcc00;
+            text-shadow: 1px 1px 3px #000;
+        }
+
+        .prediction-result {
+            font-size: 18px;
+            margin: 10px 0;
+            color: #ffffff;
+        }
+
+        .prediction-label {
+            font-weight: bold;
+            color: #ffcc00;
+        }
+
+        .back-button {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .back-button a {
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #ffcc00;
+            color: #000;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .back-button a:hover {
+            background-color: #e6b800;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Diamond Price Prediction Results</h1>
+
+        <!-- Display the predicted diamond information -->
+        <div class="result-card">
+            <h2>{{final_res}}</h2>
+          
+         
+        </div>
+
+        <!-- Back to form button -->
+
+    </div>
+
+</body>
+</html>

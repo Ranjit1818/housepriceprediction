@@ -1,0 +1,25 @@
+[ 2025-01-04 03:46:27,498 ] 23 root - INFO - Logger is successfully set up!
+[ 2025-01-04 03:46:30,731 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-04 03:46:30,744 ] 97 werkzeug - INFO -  * Debugger PIN: 520-297-573
+[ 2025-01-04 03:46:59,925 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:46:59] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 03:47:16,113 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 03:47:16,452 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:16] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-04 03:47:24,031 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:24] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:29,228 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:29] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:31,259 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:31] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:32,333 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:32] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:33,238 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:33] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:33,416 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:33] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:33,818 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:33] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:34,047 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:34] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:34,233 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:34] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:34,461 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:34] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:47:55,141 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:47:55] "[33mGET /index HTTP/1.1[0m" 404 -
+[ 2025-01-04 03:48:01,556 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:48:01] "GET / HTTP/1.1" 200 -
+[ 2025-01-04 03:49:27,103 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:49:27] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 03:49:45,028 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 03:49:45,137 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:49:45] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-04 03:59:13,277 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:59:13] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-04 03:59:30,324 ] 67 root - INFO - Dataframe Gathered
+[ 2025-01-04 03:59:30,385 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Jan/2025 03:59:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-01-04 04:00:04,401 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ranje\\OneDrive\\Desktop\\hosuseprice\\app.py', reloading
