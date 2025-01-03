@@ -1,0 +1,5 @@
+[ 2025-01-03 22:46:27,591 ] 23 root - INFO - Logger is successfully set up!
+[ 2025-01-03 22:47:24,045 ] 26 root - INFO - Data Ingestion methods Starts
+[ 2025-01-03 22:47:27,781 ] 30 root - INFO - Dataset read as pandas Dataframe
+[ 2025-01-03 22:47:28,957 ] 34 root - INFO - Train test split
+[ 2025-01-03 22:47:30,239 ] 40 root - INFO - Ingestion of Data is completed
